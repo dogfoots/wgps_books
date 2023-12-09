@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책목록2.md",
+                "file": "책 목록.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책목록2.md",
+                "file": "책 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책목록2.md",
+                "file": "책 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책목록2.md"
+                "file": "책 목록.md"
               }
             }
           }
@@ -157,6 +157,6 @@
   },
   "active": "7d3e04cf0bb71c93",
   "lastOpenFiles": [
-    "책목록2.md"
+    "책 목록.md"
   ]
 }
