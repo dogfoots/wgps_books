@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "성경적 성별.md",
+                "file": "인물/어니스트 피커링.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "성경적 성별.md",
+                "file": "인물/어니스트 피커링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "성경적 성별.md",
+                "file": "인물/어니스트 피커링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "성경적 성별.md"
+                "file": "인물/어니스트 피커링.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "deb9e903bbe2faa3",
   "lastOpenFiles": [
+    "책/성경적 성별.md",
+    "인물/어니스트 피커링.md",
+    "인물",
+    "책",
     "책 목록.md",
-    "성경적 성별.md",
     "책목록2.md"
   ]
 }
