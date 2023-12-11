@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/밥존스대학.md",
+                "file": "대학/침례교 성경대학.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/밥존스대학.md",
+                "file": "대학/침례교 성경대학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/밥존스대학.md",
+                "file": "대학/침례교 성경대학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/밥존스대학.md"
+                "file": "대학/침례교 성경대학.md"
               }
             }
           }
@@ -159,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "925b0c1a4c941ba7",
+  "active": "0698ec583061ab39",
   "lastOpenFiles": [
+    "인물/어니스트 피커링.md",
+    "대학/침례교 성경대학.md",
+    "대학/밥존스대학.md",
     "대학/달라스 신학교.md",
     "그룹/정규침례교회 총연합회.md",
     "그룹/복음주의 신학회.md",
-    "인물/어니스트 피커링.md",
     "그룹",
     "책/성경적 성별.md",
-    "대학/밥존스대학.md",
     "대학",
     "인물",
     "책",
