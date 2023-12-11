@@ -11,8 +11,12 @@
             "id": "deb9e903bbe2faa3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "성경적 성별.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "성경적 성별.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "성경적 성별.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책목록2.md"
+                "file": "성경적 성별.md"
               }
             }
           }
@@ -140,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0698ec583061ab39",
+  "active": "deb9e903bbe2faa3",
   "lastOpenFiles": [
     "책 목록.md",
+    "성경적 성별.md",
     "책목록2.md"
   ]
 }
