@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "4f306e0abdb678bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "신학, 신념체계/이신론.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "376e40112295b2a9",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/존 로크.md",
+                "file": "신학, 신념체계/이신론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/존 로크.md",
+                "file": "신학, 신념체계/이신론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/존 로크.md"
+                "file": "신학, 신념체계/이신론.md"
               }
             }
           }
@@ -207,14 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83fa7170bb992e94",
+  "active": "4f306e0abdb678bb",
   "lastOpenFiles": [
+    "인물/존 로크.md",
     "신학, 신념체계/이신론.md",
     "인물/어니스트 피커링.md",
     "인물/루소.md",
     "신학, 신념체계/자연주의.md",
     "책/성경적 성별.md",
-    "인물/존 로크.md",
     "신학, 신념체계",
     "책/화해의 열매와 어린양의 영광.md",
     "대학/침례교 성경대학.md",
