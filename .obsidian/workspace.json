@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/쿠크.md",
+                "file": "신학, 신념체계/유니테리언주의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/쿠크.md",
+                "file": "신학, 신념체계/유니테리언주의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/쿠크.md"
+                "file": "신학, 신념체계/유니테리언주의.md"
               }
             }
           }
@@ -243,10 +243,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ec2e4eb52539d24",
+  "active": "e04ad6d6fb50678a",
   "lastOpenFiles": [
-    "책/미국의 유니테리언 주의.md",
     "인물/쿠크.md",
+    "책/미국의 유니테리언 주의.md",
     "신학, 신념체계/유니테리언주의.md",
     "인물/존 비들.md",
     "인물/볼테르.md",
