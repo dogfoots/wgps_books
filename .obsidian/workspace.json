@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인물/볼테르.md",
+                "file": "신학, 신념체계/유니테리언주의.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/볼테르.md",
+                "file": "신학, 신념체계/유니테리언주의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/볼테르.md",
+                "file": "신학, 신념체계/유니테리언주의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/볼테르.md"
+                "file": "신학, 신념체계/유니테리언주의.md"
               }
             }
           }
@@ -233,6 +233,8 @@
   },
   "active": "e04ad6d6fb50678a",
   "lastOpenFiles": [
+    "인물/볼테르.md",
+    "신학, 신념체계/유니테리언주의.md",
     "인물/어니스트 피커링.md",
     "인물/임마누엘 칸트.md",
     "인물/존 로크.md",
@@ -240,10 +242,8 @@
     "신학, 신념체계/자유주의.md",
     "대학/할레 대학.md",
     "신학, 신념체계/비교종교학.md",
-    "인물/볼테르.md",
     "신학, 신념체계/이신론.md",
     "신학, 신념체계/자연주의.md",
-    "신학, 신념체계/Untitled.md",
     "인물/루소.md",
     "책/성경적 성별.md",
     "신학, 신념체계",
