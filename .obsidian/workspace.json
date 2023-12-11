@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "화해의 열매와 어린양의 영광.md",
+                "file": "책/성경적 성별.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "화해의 열매와 어린양의 영광.md",
+                "file": "책/성경적 성별.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "화해의 열매와 어린양의 영광.md",
+                "file": "책/성경적 성별.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "화해의 열매와 어린양의 영광.md"
+                "file": "책/성경적 성별.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "855a50097f54fea2",
   "lastOpenFiles": [
+    "말씀보존학회 도서 목록.md",
+    "책/화해의 열매와 어린양의 영광.md",
     "인물/어니스트 피커링.md",
-    "화해의 열매와 어린양의 영광.md",
     "대학/침례교 성경대학.md",
     "대학/밥존스대학.md",
     "대학/달라스 신학교.md",
@@ -185,7 +186,6 @@
     "대학",
     "인물",
     "책",
-    "책 목록.md",
     "책목록2.md"
   ]
 }
