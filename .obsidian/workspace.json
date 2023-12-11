@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학/침례교 성경대학.md",
+                "file": "인물/어니스트 피커링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "855a50097f54fea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "화해의 열매와 어린양의 영광.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대학/침례교 성경대학.md",
+                "file": "화해의 열매와 어린양의 영광.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대학/침례교 성경대학.md",
+                "file": "화해의 열매와 어린양의 영광.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대학/침례교 성경대학.md"
+                "file": "화해의 열매와 어린양의 영광.md"
               }
             }
           }
@@ -159,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0698ec583061ab39",
+  "active": "855a50097f54fea2",
   "lastOpenFiles": [
     "인물/어니스트 피커링.md",
+    "화해의 열매와 어린양의 영광.md",
     "대학/침례교 성경대학.md",
     "대학/밥존스대학.md",
     "대학/달라스 신학교.md",
