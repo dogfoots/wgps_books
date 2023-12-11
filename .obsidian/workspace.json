@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "신학, 신념체계/유니테리언주의.md",
+                "file": "인물/찰스 스펄젼.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "신학, 신념체계/유니테리언주의.md",
+                "file": "인물/찰스 스펄젼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "신학, 신념체계/유니테리언주의.md",
+                "file": "인물/찰스 스펄젼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "신학, 신념체계/유니테리언주의.md"
+                "file": "인물/찰스 스펄젼.md"
               }
             }
           }
@@ -243,11 +243,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e04ad6d6fb50678a",
+  "active": "0698ec583061ab39",
   "lastOpenFiles": [
+    "신학, 신념체계/유니테리언주의.md",
+    "인물/찰스 스펄젼.md",
     "인물/쿠크.md",
     "책/미국의 유니테리언 주의.md",
-    "신학, 신념체계/유니테리언주의.md",
     "인물/존 비들.md",
     "인물/볼테르.md",
     "인물/어니스트 피커링.md",
