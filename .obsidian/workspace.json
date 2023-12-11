@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인물/존 로크.md",
+                "file": "인물/볼테르.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/존 로크.md",
+                "file": "인물/볼테르.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/존 로크.md",
+                "file": "인물/볼테르.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/존 로크.md"
+                "file": "인물/볼테르.md"
               }
             }
           }
@@ -221,10 +221,11 @@
   },
   "active": "4f306e0abdb678bb",
   "lastOpenFiles": [
+    "인물/존 로크.md",
+    "인물/볼테르.md",
     "신학, 신념체계/이신론.md",
     "신학, 신념체계/자연주의.md",
     "신학, 신념체계/Untitled.md",
-    "인물/존 로크.md",
     "인물/어니스트 피커링.md",
     "인물/루소.md",
     "책/성경적 성별.md",
