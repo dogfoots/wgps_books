@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "신학, 신념체계/비교종교학.md",
+                "file": "인물/임마누엘 칸트.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "신학, 신념체계/비교종교학.md",
+                "file": "인물/임마누엘 칸트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "신학, 신념체계/비교종교학.md",
+                "file": "인물/임마누엘 칸트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "신학, 신념체계/비교종교학.md"
+                "file": "인물/임마누엘 칸트.md"
               }
             }
           }
@@ -231,10 +231,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0698ec583061ab39",
+  "active": "e04ad6d6fb50678a",
   "lastOpenFiles": [
-    "인물/볼테르.md",
     "신학, 신념체계/비교종교학.md",
+    "인물/임마누엘 칸트.md",
+    "인물/볼테르.md",
     "인물/존 로크.md",
     "신학, 신념체계/이신론.md",
     "신학, 신념체계/자연주의.md",
