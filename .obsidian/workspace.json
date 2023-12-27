@@ -8,115 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deb9e903bbe2faa3",
+            "id": "7d3e04cf0bb71c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인물/어니스트 피커링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "925b0c1a4c941ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인물/어니스트 피커링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "855a50097f54fea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "신학, 신념체계/이신론.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83fa7170bb992e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인물/존 로크.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f306e0abdb678bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인물/볼테르.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e04ad6d6fb50678a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인물/찰스 스펄젼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ec2e4eb52539d24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인물/쿠크.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "376e40112295b2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "신학, 신념체계/자연주의.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0fe3a1ad68db1ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "신학, 신념체계/이신론.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/찰스 스펄젼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/찰스 스펄젼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "인물/찰스 스펄젼.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -243,37 +138,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0698ec583061ab39",
+  "active": "7d3e04cf0bb71c93",
   "lastOpenFiles": [
-    "신학, 신념체계/유니테리언주의.md",
-    "인물/찰스 스펄젼.md",
-    "인물/쿠크.md",
-    "책/미국의 유니테리언 주의.md",
-    "인물/존 비들.md",
-    "인물/볼테르.md",
-    "인물/어니스트 피커링.md",
-    "인물/임마누엘 칸트.md",
-    "인물/존 로크.md",
-    "인물/프리드리히 슐라이어마허.md",
-    "신학, 신념체계/자유주의.md",
-    "대학/할레 대학.md",
-    "신학, 신념체계/비교종교학.md",
-    "신학, 신념체계/이신론.md",
-    "신학, 신념체계/자연주의.md",
-    "인물/루소.md",
-    "책/성경적 성별.md",
-    "신학, 신념체계",
+    "책 목록.md",
     "책/화해의 열매와 어린양의 영광.md",
-    "대학/침례교 성경대학.md",
+    "책/성경적 성별.md",
+    "책/미국의 유니테리언 주의.md",
+    "책",
+    "인물/프리드리히 슐라이어마허.md",
+    "인물/쿠크.md",
+    "인물/찰스 스펄젼.md",
+    "인물/존 비들.md",
+    "인물/존 로크.md",
+    "인물/임마누엘 칸트.md",
+    "인물/어니스트 피커링.md",
+    "인물/볼테르.md",
+    "인물/루소.md",
+    "인물",
+    "신학, 신념체계/자유주의.md",
+    "신학, 신념체계/자연주의.md",
+    "신학, 신념체계/이신론.md",
+    "신학, 신념체계/유니테리언주의.md",
+    "신학, 신념체계/비교종교학.md",
+    "신학, 신념체계",
     "말씀보존학회 도서 목록.md",
+    "대학/할레 대학.md",
+    "대학/침례교 성경대학.md",
     "대학/밥존스대학.md",
     "대학/달라스 신학교.md",
+    "대학",
     "그룹/정규침례교회 총연합회.md",
     "그룹/복음주의 신학회.md",
-    "그룹",
-    "대학",
-    "인물",
-    "책",
-    "책목록2.md"
+    "그룹"
   ]
 }
